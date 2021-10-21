@@ -2,7 +2,7 @@ body{
     background-color: hsl(225, 100%, 94%);
     width: 1440px;
     margin: 0;
-    background-image: url("/images/pattern-background-desktop.svg");
+    background-image: url("/img/pattern-background-desktop.svg");
     background-repeat: no-repeat;
     font-family: 'Red Hat Display', Courier, monospace;
     font-size: 1em;
@@ -129,7 +129,7 @@ body{
     body{
         font-size: 0.8em;
         width: 375px;
-        background-image: url("/images/pattern-background-mobile.svg");
+        background-image: url("/img/pattern-background-mobile.svg");
     }
 
     .container{
